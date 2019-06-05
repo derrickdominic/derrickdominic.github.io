@@ -1,9 +1,8 @@
 ---
-title: Mirabella Ministry App Privacy Policy
 permalink: /mirabella/privacy/
 ---
 
-# Privacy Policy
+# Mirabella Ministry App Privacy Policy
 
 This policy applies to the Mirabella Ministry apps on Android and iOS.
 
