@@ -1,4 +1,5 @@
 ---
+title: Mirabella Ministry App Privacy Policy
 permalink: /mirabella/privacy/
 ---
 
