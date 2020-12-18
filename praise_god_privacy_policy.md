@@ -16,7 +16,7 @@ The apps make use of the following pieces of user-specific information:
 
 ## Third-party links and content
 
-The apps do not make use of third-party content.
+The apps do not make use of third-party links or content.
 
 ## Your Consent
 
